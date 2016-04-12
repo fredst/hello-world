@@ -1,4 +1,4 @@
 # hello-world
 This is hello world!
 
-Yep.
+I learned to use github!
